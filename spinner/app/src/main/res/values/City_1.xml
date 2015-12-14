@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="city">
+        <item>shandong</item>
+        <item>shanxi</item>
+        <item>henan</item>
+        <item>hebei</item>
+        <item>hunan</item>
+        <item>hubei</item>
+    </array>
+
+
+</resources>
