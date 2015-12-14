@@ -1,6 +1,7 @@
 ﻿package com.example.ligang.programming_1;
 /**
 注册登录界面
+javac
 */
 import android.app.ProgressDialog;
 import android.content.Intent;
